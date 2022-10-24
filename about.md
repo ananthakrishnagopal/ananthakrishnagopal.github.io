@@ -6,7 +6,7 @@ title: About
 Hey there!
 
 ## Who am I?
-I am Ananthakrishna, a budding mathematician and quantum developer working at TCS Research as a part of the Quantum Optimization Group.
+I am Ananthakrishna Gopal, a budding mathematician and quantum developer working at TCS Research as a part of the Quantum Optimization Group.
 
 ## Interests
 
