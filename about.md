@@ -3,27 +3,23 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey there!
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Who am I?
+I am Ananthakrishna, a budding mathematician and quantum developer working at TCS Research as a part of the Quantum Optimization Group.
 
-There are currently two themes built on Poole:
+## Interests
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I have a broad spectrum of interests ranging from abstract category theory to data science and software developement.I am currently working/reading on the following:
+- Applications of Quantum Computing to solving problems in Operations Research.
+- Understanding a logic from a topos theory perspective
+- Understanding Quantum Mechanics from a Categorical Perspective and it's implications in Quantum Computing
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Work apart, I am first-dan black belt in Shotokan karate, and occasionally write poetry and play the mouth-organ, hopefully someday I'll be brave enough to post myself playing music online.
 
-## Setup
+I love teaching and discussing mathematics, and have been the founding president of the Club of Mathematics at my alma-matter, the Indian Institute of Science Education and Research, Thiruvananthapuram. If you want to connect drop me a mail at ananthakrishna.gopal@gmail.com.
 
-Some fun facts about the setup of this project include:
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="ananthakrishna-g-902455136" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ananthakrishna-g-902455136?trk=profile-badge">Ananthakrishna G.</a></div>
+              
