@@ -18,4 +18,6 @@ I have a broad spectrum of interests ranging from abstract category theory to da
 
 Work apart, I am first-dan black belt in Shotokan karate, and occasionally write poetry and play the mouth-organ, hopefully someday I'll be brave enough to post myself playing music online.
 
-I love teaching and discussing stuff. If you want to connect drop me a <a href src="ananthakrishna.gopal@gmail.com">mail</a>
+I love teaching and discussing stuff. If you want to connect drop me a <a href="mailto:ananthakrishna.gopal@gmail.com">mail</a>
+
+
