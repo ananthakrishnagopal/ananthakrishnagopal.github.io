@@ -11,10 +11,9 @@ I am Ananthakrishna Gopal, a budding mathematician and quantum developer working
 ## Interests
 
 I have a broad spectrum of interests ranging from abstract category theory to data science and software developement.I am currently focused on the following:
-- Geometric Structures in Deep Learning
 - Quantum Computing in Operations Research.
 - Understanding a logic from a topos theory perspective
-- Understanding Quantum Mechanics from a Categorical Perspective and it's implications in Quantum Computing
+- Understanding Quantum Computing from a Categorical Perspective
 
 Work apart, I am first-dan black belt in Shotokan karate, and occasionally write poetry and play the mouth-organ, hopefully someday I'll be brave enough to post myself playing music online.
 
