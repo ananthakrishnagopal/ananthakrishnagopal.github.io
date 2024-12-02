@@ -1,7 +1,7 @@
-base_url = "https://YOUR_URL.TLD"
-title = "site title"
-description = "YOUR_SITE_DESCRIPTION"
-author = "YOUR_NAME"
+base_url = "https://ananthakrishnagopal.github.io"
+title = "Ananthakrishna Gopal"
+description = "Research Engineer serving as a conduit for tensor algorithms, quantum computing, and HPC solutions."
+author = "Ananthakrishna Gopal"
 theme = "tabi"
 generate_feeds = true
 compile_sass = true
