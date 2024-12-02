@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://ananthakrishnagopal.github.io/sitemap_style.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://ananthakrishnagopal.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://ananthakrishnagopal.github.io/archive/</loc>
+    </url>
+    <url>
+        <loc>https://ananthakrishnagopal.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://ananthakrishnagopal.github.io/blog/hello/</loc>
+        <lastmod>2042-01-01</lastmod>
+    </url>
+    <url>
+        <loc>https://ananthakrishnagopal.github.io/projects/</loc>
+    </url>
+    <url>
+        <loc>https://ananthakrishnagopal.github.io/projects/cool-project/</loc>
+    </url>
+    <url>
+        <loc>https://ananthakrishnagopal.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://ananthakrishnagopal.github.io/tags/demo/</loc>
+    </url>
+    <url>
+        <loc>https://ananthakrishnagopal.github.io/tags/meta/</loc>
+    </url>
+</urlset>
